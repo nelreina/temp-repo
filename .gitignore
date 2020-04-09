@@ -1,0 +1,5 @@
+.env
+.Ds_Store
+data
+.vscode
+node_modules
